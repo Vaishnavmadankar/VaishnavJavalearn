@@ -5,7 +5,7 @@ package Package1;
 	public int sum1(int a1,int a2) {
 		
 	int sum1=a1+a2;
-	System.out.println("Sum of two variable"+ sum1);
+	System.out.println("Sum of two variable" + sum1);
 	return sum1;
 	}
 	
