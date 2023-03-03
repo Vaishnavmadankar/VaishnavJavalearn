@@ -6,11 +6,13 @@ public class StatictoStatic
     	System.out.println("This is static method");
     }
 	
-    public static void main(String[] args) {
+    public static void xyz() {
 		method1();
 		StatictoStatic.method1();
 		StatictoStatic S=new StatictoStatic();
 		S.method1();
+		
+		
 		
 	}
 }

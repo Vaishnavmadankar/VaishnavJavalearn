@@ -9,6 +9,6 @@ public class NonstatictoStatic {
 	public static void main(String[] args) {
 		NonstatictoStatic Obj=new NonstatictoStatic();
 		Obj.method1();
-	
+		
 	}
 }
